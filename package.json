@@ -1,0 +1,12 @@
+{
+  "name": "mythical-accordion",
+  "version": "1.0.0",
+  "description": "a project inspired by a codepen challenge. Uses the accordion design pattern to display information about mythical creatures.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch sass/style.scss -o css"
+  },
+  "author": "elliempatten",
+  "license": "ISC"
+}
